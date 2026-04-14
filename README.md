@@ -19,7 +19,6 @@
 
 OCRFlux is a multimodal large language model based toolkit for converting PDFs and images into clean, readable, plain Markdown text. It aims to push the current state-of-the-art to a significantly higher level.
 
-Try the online demo: [OCRFlux Demo](https://ocrflux.pdfparser.io/)
 
 Functions: **Whole file parsing**
 - On each page
